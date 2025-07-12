@@ -1,4 +1,4 @@
-# Rock Paper Scissors AI
+# Rock Paper Scissors
 Ce code implémente une intelligence artificielle jouant à pierre-papier-ciseaux, capable de battre plusieurs bots en adaptant sa stratégie grâce à une chaîne de Markov.
 
 ## Fonctionnalités principales
